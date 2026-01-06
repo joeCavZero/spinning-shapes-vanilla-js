@@ -1,8 +1,6 @@
-```html
 <div align="center">
   <img src="readme/spinning.gif" width="300" />
 </div>
-```
 
 # 3D SPINNING SHAPES – VANILLA JS
 
